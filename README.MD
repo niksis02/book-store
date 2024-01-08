@@ -10,7 +10,6 @@ Copy .env file
 
 ```
 cp .env.sample .env
-
 ```
 
 Run the application
